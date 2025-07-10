@@ -3,7 +3,7 @@
 
 # This is PALETTE.
 
--# A set of customized, TUFX-based color profiles for KSP to spice up your game's visuals. This is a continuation/expansion/replacement of my original mod, the KASA Flag Pack and TUFX Profile.
+## A set of customized, TUFX-based color profiles for KSP to spice up your game's visuals. This is a continuation/expansion/replacement of my original mod, the KASA Flag Pack and TUFX Profile.
 
  
 **THE PROFILES!**
